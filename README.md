@@ -280,9 +280,10 @@ The Navigation Drawer provides access to:
 * History
 * About
 
+![Stage 4 Output](screenshots/stage-4.png)
+
 **Folder: STAGE-4/**
 
-![Stage 4 Output](screenshots/stage-4.png)
 
 ## STAGE-5 - EXPERIMENT 05
 
