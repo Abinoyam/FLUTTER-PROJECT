@@ -443,11 +443,11 @@ Animated transitions were demonstrated in the Unit Converter interface.
 
 The combined learning application includes a weather screen that requests current weather data from the Open-Meteo API. It displays temperature, wind speed, and the returned weather code. Loading, failure, and retry states are included.
 
+![Stage 9 Output](screenshots/stage-9.png)
+
 ### Result:
 
 REST API integration and JSON response handling were demonstrated using weather data from an external service.
-
-![Stage 9 Output](screenshots/stage-9.png)
 
 **Folder: STAGE-9/**
 
