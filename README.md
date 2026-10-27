@@ -67,6 +67,8 @@ The project demonstrates important concepts of Dart and Flutter including progra
 
 **Folder: STAGE-1/**
 
+![Stage 1 Output](screenshots/stage-1.png)
+
 ### Result:
 
 Flutter and Dart development environment was successfully configured and basic Dart programs were implemented and executed successfully.
