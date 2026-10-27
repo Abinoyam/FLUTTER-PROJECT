@@ -409,11 +409,11 @@ Input validation and error-handling concepts are documented for improving the re
 
 The combined learning application includes an animated Unit Converter screen. When the converted result changes, AnimatedSwitcher displays the updated result with fade and slide transitions.
 
+![Stage 8 Output](screenshots/stage-8.png)
+
 ### Result:
 
 Animated transitions were demonstrated in the Unit Converter interface.
-
-![Stage 8 Output](screenshots/stage-8.png)
 
 **Folder: STAGE-8/**
 
