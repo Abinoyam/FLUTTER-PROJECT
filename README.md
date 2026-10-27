@@ -376,11 +376,11 @@ Reusable widgets and theme configuration were demonstrated, including switching 
 
 Validation can ensure that entered values are valid numbers before conversion. Invalid input should be handled gracefully and explained to the user. Verify the final implementation against the original STAGE-7 project.
 
+![Stage 7 Output](screenshots/stage-7.png)
+
 ### Result:
 
 Input validation and error-handling concepts are documented for improving the reliability of a Flutter application.
-
-![Stage 7 Output](screenshots/stage-7.png)
 
 **Folder: STAGE-7/**
 
