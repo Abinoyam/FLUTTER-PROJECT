@@ -124,6 +124,8 @@ Stack: Used to demonstrate overlapping UI elements.
 
 **Folder: STAGE-2/**
 
+![Stage 2 Output](screenshots/stage-2.png)
+
 ### Result:
 
 Different Flutter widgets and layout structures were successfully explored and implemented in the Unit Converter application.
@@ -177,6 +179,8 @@ For smaller screens, they are displayed vertically using a Column.
 * Adaptation to different screen sizes
 
 **Folder: STAGE-3/**
+
+![Stage 3 Output](screenshots/stage-3.png)
 
 ### Result:
 
@@ -278,6 +282,7 @@ The Navigation Drawer provides access to:
 
 **Folder: STAGE-4/**
 
+![Stage 4 Output](screenshots/stage-4.png)
 
 ## STAGE-5 - EXPERIMENT 05
 
@@ -310,6 +315,8 @@ State management and user input handling concepts are documented for interactive
 
 **Folder: STAGE-5/**
 
+![Stage 5 Output](screenshots/stage-5.png)
+
 ## STAGE-6 - EXPERIMENT 06
 
 **Title: Custom Widgets and Light/Dark Themes in Flutter**
@@ -334,6 +341,8 @@ State management and user input handling concepts are documented for interactive
 ### Project Implementation:
 
 The combined learning application includes a theme demonstration screen with a control for switching between light and dark themes. Reusable Material widgets such as cards, icons, and buttons demonstrate consistent styling.
+
+![Stage 6 Output](screenshots/stage-6.png)
 
 ### Result:
 
@@ -370,6 +379,8 @@ Validation can ensure that entered values are valid numbers before conversion. I
 
 Input validation and error-handling concepts are documented for improving the reliability of a Flutter application.
 
+![Stage 7 Output](screenshots/stage-7.png)
+
 **Folder: STAGE-7/**
 
 ## STAGE-8 - EXPERIMENT 08
@@ -400,6 +411,8 @@ The combined learning application includes an animated Unit Converter screen. Wh
 ### Result:
 
 Animated transitions were demonstrated in the Unit Converter interface.
+
+![Stage 8 Output](screenshots/stage-8.png)
 
 **Folder: STAGE-8/**
 
@@ -432,6 +445,8 @@ The combined learning application includes a weather screen that requests curren
 ### Result:
 
 REST API integration and JSON response handling were demonstrated using weather data from an external service.
+
+![Stage 9 Output](screenshots/stage-9.png)
 
 **Folder: STAGE-9/**
 
@@ -472,6 +487,8 @@ flutter run
 ### Result:
 
 Testing and debugging procedures are documented for verifying conversion logic and Flutter user interface behavior.
+
+![Stage 10 Output](screenshots/stage-10.png)
 
 **Folder: STAGE-10/**
 
