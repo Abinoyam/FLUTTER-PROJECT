@@ -314,9 +314,9 @@ State management can be used to update the interface whenever users change input
 
 State management and user input handling concepts are documented for interactive Flutter UI components.
 
-**Folder: STAGE-5/**
-
 ![Stage 5 Output](screenshots/stage-5.png)
+
+**Folder: STAGE-5/**
 
 ## STAGE-6 - EXPERIMENT 06
 
