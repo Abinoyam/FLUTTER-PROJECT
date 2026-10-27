@@ -485,11 +485,11 @@ flutter test
 flutter run
 ```
 
+![Stage 10 Output](screenshots/stage-10.png)
+
 ### Result:
 
 Testing and debugging procedures are documented for verifying conversion logic and Flutter user interface behavior.
-
-![Stage 10 Output](screenshots/stage-10.png)
 
 **Folder: STAGE-10/**
 
