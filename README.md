@@ -433,7 +433,6 @@ Animated transitions were demonstrated in the Unit Converter interface.
 * REST API
 * HTTP GET request
 * JSON decoding
-* Asynchronous programming
 * Future and async/await
 * Loading indicators
 * Error handling
