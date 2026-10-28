@@ -543,7 +543,13 @@ The Unit Converter application was progressively enhanced at each stage, making 
 
 https://github.com/Abinoyam/Unit-Converter-Flutter-Project
 
+---
 
+## Project Architecture Diagram
+
+The diagram below illustrates the architecture of the Flutter Unit Converter project.
+
+![Flutter Unit Converter Diagram](docs/diagram(1).png)
 
 
 
